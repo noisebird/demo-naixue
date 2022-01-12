@@ -1,0 +1,179 @@
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-57280228 {
+  flex: 1;
+}
+.header-bg.data-v-57280228 {
+  width: 100%;
+  height: 360px;
+}
+.swiper-height.data-v-57280228 {
+  height: 360px;
+}
+.naixue-container.data-v-57280228 {
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+  flex: 1;
+}
+.naixue-account-info.data-v-57280228 {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 8px;
+}
+.naixue-account-info .account-item.data-v-57280228 {
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+.naixue-account-info .user-avator.data-v-57280228 {
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+.user-experience.data-v-57280228 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 40px;
+  margin-left: 12px;
+}
+.user-experience text.data-v-57280228 {
+  font-size: 12px;
+}
+.user-experience .experience-progress.data-v-57280228 {
+  height: 4px;
+  background-color: #C0C0C0;
+  border-radius: 12px;
+  width: 80px;
+  margin-right: 8px;
+}
+.user-experience .inner-progress.data-v-57280228 {
+  background-color: #18BC37;
+  width: 40%;
+  height: 100%;
+  border-radius: 12px;
+}
+.account-info-item view.data-v-57280228 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 24px;
+  font-size: 12px;
+  height: 40px;
+}
+.food-way-container.data-v-57280228 {
+  border-radius: 3px;
+  padding: 24px 24px 12px 24px;
+  background-color: #FFFFFF;
+}
+.food-container.data-v-57280228 {
+  display: flex;
+}
+.food-container .food-content.data-v-57280228 {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.food-container .food-content image.data-v-57280228 {
+  width: 64px;
+  height: 64px;
+}
+.food-container .food-content text.data-v-57280228 {
+  font-size: 14px;
+}
+.food-container .food-content .font-18.data-v-57280228 {
+  font-size: 18px;
+  margin: 4px 0 4px 0;
+}
+.food-container .food-content.data-v-57280228:first-child {
+  border-right: 1px solid #e5e5e5;
+}
+.food-tip.data-v-57280228 {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  align-items: center;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 12px;
+  margin-top: 16px;
+}
+.food-tip image.data-v-57280228 {
+  width: 20px;
+  height: 20px;
+}
+.food-tip > view.data-v-57280228 {
+  display: flex;
+  align-items: center;
+}
+.food-tip > view > image.data-v-57280228 {
+  margin-right: 4px;
+}
+.food-tip > text.data-v-57280228 {
+  color: #B9B9B9;
+}
+.food-description.data-v-57280228 {
+  color: #B9B9B9;
+  font-size: 12px;
+}
+.naixue-ad.data-v-57280228 {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-top: 12px;
+}
+.ad-card.data-v-57280228 {
+  margin-right: 8px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 12px;
+}
+.ad-card image.data-v-57280228 {
+  width: 80px;
+  height: 80px;
+}
+.ad-card-title.data-v-57280228 {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+.ad-card-description.data-v-57280228 {
+  font-size: 12px;
+  color: #B9B9B9;
+  text-align: center;
+  margin: 4px 0;
+}
+.ad-card.data-v-57280228:last-child {
+  margin-right: 0;
+}
+.vip-recommend.data-v-57280228 {
+  margin-top: 12px;
+}
+.scroll-Y.data-v-57280228 {
+  height: 100%;
+}
+.vip-title.data-v-57280228 {
+  display: flex;
+  justify-content: space-between;
+}
+.vip-title text.data-v-57280228:first-child {
+  font-size: 14px;
+  font-weight: bold;
+}
+.vip-title text.data-v-57280228:last-child {
+  font-size: 12px;
+  color: #B9B9B9;
+}
+.vip-card.data-v-57280228 {
+  border-radius: 8px;
+  margin-top: 8px;
+}
+.vip-card image.data-v-57280228 {
+  height: 120px;
+  width: 100%;
+  border-radius: 8px;
+}
